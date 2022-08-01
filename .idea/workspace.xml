@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86541dd0-bd31-45d3-8f74-80b79be40d69" name="Changes" comment="01/08/2022">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/XyzPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojos/BookingDatesPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojos/BookingPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojos/XyzPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ApiStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HMC_DBUtils_stepdefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HMC_db_Stepdefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/XyzTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/XyzPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pojos/BookingDatesPojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pojos/BookingPojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pojos/XyzPojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/ApiStepDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HMC_DBUtils_stepdefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HMC_db_Stepdefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/DBUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/JsonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/XyzTestData.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ClkHSvJYQuNuLzGyhpdR1aaygv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TechPro\Projeler\End2EndTaslak" />
+      <recent name="D:\TechPro\Projeler\End2EndTaslak\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86541dd0-bd31-45d3-8f74-80b79be40d69" name="Changes" comment="" />
+      <created>1659384473003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659384473003</updated>
+    </task>
+    <task id="LOCAL-00001" summary="01/08/2022">
+      <created>1659385713396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659385713396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01/08/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="01/08/2022" />
+  </component>
+</project>
