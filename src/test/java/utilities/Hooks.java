@@ -1,4 +1,4 @@
-package stepDefinitions;
+package utilities;
 
 import io.cucumber.java.Scenario;
 import org.openqa.selenium.OutputType;

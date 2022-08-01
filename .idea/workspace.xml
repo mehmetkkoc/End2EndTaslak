@@ -5,26 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86541dd0-bd31-45d3-8f74-80b79be40d69" name="Changes" comment="01/08/2022">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Get.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US01_Gecersiz SSN ile giris yapilamaz.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/xyz.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get08.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get12Pojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get12Pojo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get13Pojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get13Pojo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get14ObjeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get14ObjeMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get15ObjectMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get15ObjectMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api2022/src/test/java/get_requests/Get17.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api2022/src/test/java/delete_request/get_requests/Get17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MedunnaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/UI_StepDefinitions/MedunnaStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/JDBC_Test.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/JDBC_Test2.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/ApiStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Api_StepDefinitions/ApiStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/HMC_DBUtils_stepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/JDBC_StepDefinitions/HMC_DBUtils_stepdefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/HMC_db_Stepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/JDBC_StepDefinitions/HMC_db_Stepdefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/UI_StepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Get.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Api_Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US01_Gecersiz SSN ile giris yapilamaz.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/UI_Test.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +40,132 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/features" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TechPro\Projeler\End2EndTaslak\src\test\resources\features" />
+      <recent name="D:\TechPro\Projeler\End2EndTaslak\src\test" />
       <recent name="D:\TechPro\Projeler\End2EndTaslak" />
       <recent name="D:\TechPro\Projeler\End2EndTaslak\src\test\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stepDefinitions" />
+      <recent name="pages" />
       <recent name="utilities" />
     </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario:  (1)">
+    <configuration name="Scenario:  (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Api_Test.feature" />
+      <option name="GLUE" value="stepDefinitions.Api_StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="End2EndTaslak" />
+      <option name="NAME_FILTER" value="^$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: " />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC01 SSN 4. ve 7. karakter &quot;-&quot; olmali ve toplam 9 rakam icermeli" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US01_Gecersiz SSN ile giris yapilamaz.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="End2EndTaslak" />
+      <option name="NAME_FILTER" value="^TC01 SSN 4\. ve 7\. karakter \&quot;\-\&quot; olmali ve toplam 9 rakam icermeli$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 SSN 4\. ve 7\. karakter \&quot;\-\&quot; olmali ve toplam 9 rakam icermeli$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 SSN 4. ve 7. karakter &quot;-&quot; olmali ve toplam 9 rakam icermeli" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC03 Kullanici istenen degeri test edebilmeli" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1003_DBUtillReadTest.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="End2EndTaslak" />
+      <option name="NAME_FILTER" value="^TC03 Kullanici istenen degeri test edebilmeli$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC03 Kullanici istenen degeri test edebilmeli$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC03 Kullanici istenen degeri test edebilmeli" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC04 Kullanici field listesi yazdirabilmeli" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1004_DBUtilsListeleme.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="End2EndTaslak" />
+      <option name="NAME_FILTER" value="^TC04 Kullanici field listesi yazdirabilmeli$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC04 Kullanici field listesi yazdirabilmeli$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC04 Kullanici field listesi yazdirabilmeli" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Get.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="End2EndTaslak" />
+      <option name="NAME_FILTER" value="^$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: " />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario:  (1)" />
+        <item itemvalue="Cucumber Java.Scenario: TC04 Kullanici field listesi yazdirabilmeli" />
+        <item itemvalue="Cucumber Java.Scenario: TC01 SSN 4. ve 7. karakter &quot;-&quot; olmali ve toplam 9 rakam icermeli" />
+        <item itemvalue="Cucumber Java.Scenario: TC03 Kullanici istenen degeri test edebilmeli" />
+        <item itemvalue="Cucumber Java.Scenario: " />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
